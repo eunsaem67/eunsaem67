@@ -5,7 +5,7 @@
 
 ## like
 참고로 저는 동물을 아주 좋아합니다. 
-![미니비숑](dog.jpg)
+![alt text](dog.jpg)
 <!--
 **eunsaem67/eunsaem67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
